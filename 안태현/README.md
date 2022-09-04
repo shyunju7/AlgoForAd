@@ -9,3 +9,7 @@ https://www.acmicpc.net/problem/3085
 [220902(금)]
 백준 1057: 토너먼트
 https://www.acmicpc.net/problem/1057
+
+[220904(일)]
+백준 14503: 로봇청소기
+https://www.acmicpc.net/problem/14503
