@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class SW2468_SafeArea {
+public class BJ2468_SafeArea {
 	
 	private static int N, max, water;
 	private static int[] dx = {-1, 0, 1, 0}, dy = {0, 1, 0, -1};	//상우하좌 (시계방향)
