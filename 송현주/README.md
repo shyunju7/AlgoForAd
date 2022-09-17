@@ -7,3 +7,4 @@
 | SW | 2383 | - |    [모의 SW 역량테스트] 점심 식사시간    |  -  |
 | BJ | 2468 | S1  |    [안전 영역](https://www.acmicpc.net/problem/2468)    |  ✓  |
 | BJ | 14891 | G5  |    [톱니바퀴](https://www.acmicpc.net/problem/14891)    |  ✓  |
+| BJ | 2615 | S2  |    [오목](https://www.acmicpc.net/problem/2615)    |  ✓  |
