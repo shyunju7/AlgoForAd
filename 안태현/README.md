@@ -25,3 +25,7 @@ https://www.acmicpc.net/problem/2468
 [220913()]
 백준 14891: 톱니바퀴
 https://www.acmicpc.net/problem/14891
+
+[220917(토)]
+백준 2615: 오목
+https://www.acmicpc.net/problem/2615
