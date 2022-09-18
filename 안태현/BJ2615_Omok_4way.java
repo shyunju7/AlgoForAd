@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ2615_Omok_4way {
+public class BJ2615_Omok_4way { 
 	
 	private static int cnt;
 	private static int[] dx = {-1, 0, 1, 1}, dy = {1, 1, 1, 0};		//4방탐색(오위, 오, 오밑, 밑)
