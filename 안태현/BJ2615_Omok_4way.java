@@ -55,7 +55,7 @@ public class BJ2615_Omok_4way {
 	//일렬로 되었는지 탐색 (재귀)
 	private static void Search(int i, int j, int num, int dir) {
 		
-		if(map[i][j] == num) {
+		if(map[i][j] == num && cnt < 6) {	//6번 이상이 되면 더 탐색할 필요가 없음 
 			cnt++;
 			
 			int nx = i + dx[dir];
