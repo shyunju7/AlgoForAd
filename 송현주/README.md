@@ -8,3 +8,4 @@
 | BJ | 2468 | S1  |    [안전 영역](https://www.acmicpc.net/problem/2468)    |  ✓  |
 | BJ | 14891 | G5  |    [톱니바퀴](https://www.acmicpc.net/problem/14891)    |  ✓  |
 | BJ | 2615 | S2  |    [오목](https://www.acmicpc.net/problem/2615)    |  ✓  |
+| BJ | 15685 | G4  |    [드래곤 커브](https://www.acmicpc.net/problem/15685)    |  -  |
