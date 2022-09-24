@@ -12,4 +12,4 @@
 |  | BJ | 1581 | G4 | <a href="https://www.acmicpc.net/problem/1581">락스타 락동호</a> |  |  |
 |  | BJ | 2304 | S2 | <a href="https://www.acmicpc.net/problem/2304">창고 다각형</a> |  |  |
 |  | BJ | 14620 | S2 | <a href="https://www.acmicpc.net/problem/14620">꽃 길</a> | 🙆 |  |
-|  | BJ | 2573 | G4 | <a href="https://www.acmicpc.net/problem/2573">빙산</a> |  |  |
+|  | BJ | 2573 | G4 | <a href="https://www.acmicpc.net/problem/2573">빙산</a> | 🙆 |  |
