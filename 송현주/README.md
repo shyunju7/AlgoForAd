@@ -11,4 +11,4 @@
 | BJ | 14620 | S2  |    [꽃길](https://www.acmicpc.net/problem/14620)    |  ✓  |
 | BJ | 2304 | S2  |    [창고 다각형](https://www.acmicpc.net/problem/2304)    |  -  |
 | BJ | 1581 | G4  |    [락스타 락동호](https://www.acmicpc.net/problem/1581)    |  -  |
-| BJ | 2573 | G4  |    [빙산](https://www.acmicpc.net/problem/2573)    |  -  |
+| BJ | 2573 | G4  |    [빙산](https://www.acmicpc.net/problem/2573)    |   ✓  |
