@@ -13,7 +13,7 @@
 | SW | 2468 | - | <a href="https://www.acmicpc.net/problem/2468">안전 영역</a> | Success | ✅ |
 | BJ | 14891 | G5 | <a href="https://www.acmicpc.net/problem/14891">톱니바퀴</a> | Success | ✅ |
 | BJ | 2615 | S2 | <a href = "https://www.acmicpc.net/problem/2615">오목</a> | Success | ✅ |
-| BJ | 15685 | G4 | <a href="https://www.acmicpc.net/problem/15685">드래곤 커브</a> | Fail |  |
+| BJ | 15685 | G4 | <a href="https://www.acmicpc.net/problem/15685">드래곤 커브</a> | Success |  |
 ### 3주차
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
