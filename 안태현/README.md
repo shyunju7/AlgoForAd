@@ -22,3 +22,12 @@
 | BJ | 14620 | S2 | <a href="https://www.acmicpc.net/problem/14620">꽃 길</a> | Success |  |
 | BJ | 2573 | G4 | <a href="https://www.acmicpc.net/problem/2573">빙산</a> | Success |  |
 | BJ | 14712 | S1 | <a href="https://www.acmicpc.net/problem/14712">넴모넴모 (Easy)</a> | Fail |  |
+
+### 4주차
+| 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
+|:---:|:---:|:---:|:-----------------:|:---:|:---:|
+| BJ | 16943 | S1 | <a href="https://www.acmicpc.net/problem/16943">숫자 재배치</a> |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
