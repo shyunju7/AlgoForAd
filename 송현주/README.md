@@ -13,3 +13,4 @@
 | BJ | 1581 | G4  |    [락스타 락동호](https://www.acmicpc.net/problem/1581)    |   ✓  |
 | BJ | 2304 | S2  |    [창고 다각형](https://www.acmicpc.net/problem/2304)    |  -  |
 | BJ | 14712 | S1  |    [넴모넴모](https://www.acmicpc.net/problem/14712)    |   -  |
+| SW | 1953 | -  |    [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemSolverCodeDetail.do)    |  ✓  |
