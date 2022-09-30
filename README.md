@@ -1,6 +1,14 @@
 # AlgoForAd
 목표 : 알고리즘 문제 해결 능력 키우기
 
+### Member Github repository
+|이름|레포지토리|
+|------|---|
+|노누리|https://github.com/nohnoori/AlgoForAd|
+|송현주|https://github.com/shyunju7/AlgoForAd|
+|안태현|https://github.com/taebong1012/AlgoForAd|
+|정진수|https://github.com/Jung-jin-su/AlgoForAd|
+
 ### 알고리즘 목록
 
 |날짜|문제|문제 분류|링크|티어|
