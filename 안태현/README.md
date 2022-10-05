@@ -27,7 +27,5 @@
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
 | BJ | 16943 | S1 | <a href="https://www.acmicpc.net/problem/16943">숫자 재배치</a> | Success |  |
-| SW | 1953 | - | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&">[모의 SW 역량테스트] 탈주범 검거</a>  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+
+
