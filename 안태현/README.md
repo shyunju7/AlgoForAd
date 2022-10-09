@@ -32,7 +32,7 @@
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
 | BJ | 2239 | G4 | <a href="https://www.acmicpc.net/problem/2239">스도쿠</a> |  |  |
-| BJ | 16234 | G5 | <a href="https://www.acmicpc.net/problem/16234">인구 이동</a> |  |  |
-| BJ | 2589 | G5 | <a href="https://www.acmicpc.net/problem/2589">보물섬</a> |  |  |
+| BJ | 16234 | G5 | <a href="https://www.acmicpc.net/problem/16234">인구 이동</a> | Success |  |
+| BJ | 2589 | G5 | <a href="https://www.acmicpc.net/problem/2589">보물섬</a> | Success |  |
 | BJ | 21278 | G5 | <a href="https://www.acmicpc.net/problem/21278">호석이 두 마리 치킨</a> |  |  |
 | BJ | 16637 | G4 | <a href="https://www.acmicpc.net/problem/16637">괄호 추가하기</a> |  |  |
