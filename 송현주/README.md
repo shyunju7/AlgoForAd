@@ -17,7 +17,7 @@
 | BJ | 16234 | G5  |    [인구이동](https://www.acmicpc.net/problem/16234)    |   ✓  |
 | BJ | 2589 | G5  |    [보물섬](https://www.acmicpc.net/problem/2589)    |   ✓  |
 | BJ | 16637 | G4  |    [괄호 추가하기](https://www.acmicpc.net/problem/16637)    |   -  |
-| BJ | 21278 | G5  |    [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)    |   -  |
+| BJ | 21278 | G5  |    [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)    |   ✓  |
 
 
 
