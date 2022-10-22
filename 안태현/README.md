@@ -43,4 +43,4 @@
 | BJ | 14501 | S3 | <a href="https://www.acmicpc.net/problem/14501">퇴사</a> |  |  |
 | BJ | 1018 | S4 | <a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a> | Success |  |
 | BJ | 14889 | S2 | <a href="https://www.acmicpc.net/problem/14889">스타트와 링크</a> |  |  |
-| BJ |  |  | <a href=""></a> |  |  |
+| BJ | 2503 | S3 | <a href="https://www.acmicpc.net/problem/2503">숫자 야구</a> |  |  |
