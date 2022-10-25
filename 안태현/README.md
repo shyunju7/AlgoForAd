@@ -1,5 +1,7 @@
 ## 알고리즘 문제 목록 👾👾
 
+<a href="https://www.acmicpc.net/problem/tags">알고리즘 분류 별 문제</a>
+
 ### 1주차
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
@@ -40,7 +42,9 @@
 ### 6주차 [브루트포스 알고리즘]
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
-| BJ | 14501 | S3 | <a href="https://www.acmicpc.net/problem/14501">퇴사</a> |  |  |
-| BJ | 1018 | S4 | <a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a> | Success |  |
-| BJ | 14889 | S2 | <a href="https://www.acmicpc.net/problem/14889">스타트와 링크</a> | Success |  |
-| BJ | 2503 | S3 | <a href="https://www.acmicpc.net/problem/2503">숫자 야구</a> | Success |  |
+| BJ | 14501 | S3 | <a href="https://www.acmicpc.net/problem/14501">퇴사</a> |  | ✅ |
+| BJ | 1018 | S4 | <a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a> | Success | ✅ |
+| BJ | 14889 | S2 | <a href="https://www.acmicpc.net/problem/14889">스타트와 링크</a> | Success | ✅ |
+| BJ | 2503 | S3 | <a href="https://www.acmicpc.net/problem/2503">숫자 야구</a> | Success | ✅ |
+
+
