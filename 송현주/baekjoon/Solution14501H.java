@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 /**
  * 14501. 퇴사
  * 송현주
- * 미해결
  */
 
 public class Solution14501H {
@@ -29,25 +28,25 @@ public class Solution14501H {
             plan[i][1] = Integer.parseInt(st.nextToken());
         }
 
-        for (int i = 1; i <= N; i++) {
-            consult(i);
-            System.out.println("================================================================");
-        }
-
+        consult(1, 0);
         System.out.println(answer);
     }
 
     // 탐색
-    private static void consult(int start) {
-        int pay = 0;
-        for (int k = start; k <= N; ) {
-            if (k + plan[k][0] > N + 2) {
-                break;
+    private static void consult(int start, int sum) {
+
+        // 근무 기간을 만료했다면 종료
+        if (start >= N + 1) {
+            if (start == N + 1) {
+                answer = Math.max(answer, sum);
             }
-            pay += plan[k][1];
-            k += plan[k][0];
-            System.out.println("k = " + k + " pay = " + pay);
+            return;
         }
-        answer = Math.max(pay, answer);
+
+        // 상담 진행 ok
+        consult(start + plan[start][0], sum + plan[start][1]);
+
+        // 상담 진행 x
+        consult(start + 1, sum);
     }
 }
