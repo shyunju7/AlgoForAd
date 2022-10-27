@@ -54,4 +54,4 @@
 | BJ | 15903 | S1 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a> |  |  |
 | BJ | 2075 | S2 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a> |  |  |
 | BJ | 23757 | S2 | <a href="https://www.acmicpc.net/problem/23757">아이들과 선물 상자</a> |  |  |
-| BJ | 14235 | S3 | <a href="https://www.acmicpc.net/problem/14235">크리스마스 선물</a> |  |  |
+| BJ | 14235 | S3 | <a href="https://www.acmicpc.net/problem/14235">크리스마스 선물</a> | Success |  |
