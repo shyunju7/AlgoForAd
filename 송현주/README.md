@@ -22,7 +22,7 @@
 ### **[10월 4주차]** 브루트포스 알고리즘
 | 구분 | 번호 | 난이도 |   제목   | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|
-| BJ | 14501 | S3  |  [퇴사](https://www.acmicpc.net/problem/14501)   |   -  |
+| BJ | 14501 | S3  |  [퇴사](https://www.acmicpc.net/problem/14501)   |   ✓  |
 | BJ | 1018 | S4 |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   |   ✓  |
 | BJ | 14889 | S2  |  [스타트와 링크](https://www.acmicpc.net/problem/14889)   |   ✓  |
 | BJ | 2503 | S3  |  [숫자 야구](https://www.acmicpc.net/problem/2503)   |   -  |
