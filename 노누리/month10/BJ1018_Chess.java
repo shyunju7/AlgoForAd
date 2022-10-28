@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ1018 {
+public class BJ1018_Chess {
     public static void main(String[] args) throws IOException {
         char[][] bw={{'W','B','W','B','W','B','W','B'},{'B','W','B','W','B','W','B','W'}};
 
