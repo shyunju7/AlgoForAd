@@ -52,6 +52,6 @@
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
 | BJ | 16637 | G4 | <a href="https://www.acmicpc.net/problem/16637">괄호 추가하기</a> |  |  |
 | BJ | 15903 | S1 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a> |  |  |
-| BJ | 2075 | S2 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a> |  |  |
+| BJ | 2075 | S2 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a> | Success |  |
 | BJ | 23757 | S2 | <a href="https://www.acmicpc.net/problem/23757">아이들과 선물 상자</a> | Success |  |
 | BJ | 14235 | S3 | <a href="https://www.acmicpc.net/problem/14235">크리스마스 선물</a> | Success |  |
