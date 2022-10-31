@@ -1,9 +1,11 @@
+package month09;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ14712 {
+public class BJ14712_Nemmo {
     static boolean[] visited;
     static int count;
     static int N,M;

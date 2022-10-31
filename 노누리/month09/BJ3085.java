@@ -1,4 +1,4 @@
-package com.study.radish;
+package month09;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,10 +1,12 @@
+package month09;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ14891_2 {
+public class BJ14891_Gear {
     static char[][] gear;
     static int[] rotation;
     public static void main(String[] args) throws IOException {
