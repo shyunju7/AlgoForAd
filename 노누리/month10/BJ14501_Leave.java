@@ -1,9 +1,11 @@
+package month10;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ14501 {
+public class BJ14501_Leave {
     static int[][] map;
     static int N;
     static int result=Integer.MIN_VALUE;

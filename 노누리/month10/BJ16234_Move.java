@@ -1,3 +1,5 @@
+package month10;
+
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +8,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ16234 {
+public class BJ16234_Move {
     static int N,L,R,cnt;
     static int[][] map;
     static int[][] visited;

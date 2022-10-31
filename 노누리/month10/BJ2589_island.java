@@ -1,3 +1,5 @@
+package month10;
+
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +8,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ2589 {
+public class BJ2589_island {
     static char[][] map;
     static boolean[][] visited;
     static int[][] mapNum;

@@ -1,10 +1,12 @@
+package month09;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ2615 {
+public class BJ2615_Omok {
     static int[][] result=new int[5][2];
 
     public static void main(String[] args) throws IOException {

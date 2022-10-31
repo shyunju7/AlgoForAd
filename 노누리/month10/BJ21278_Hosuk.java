@@ -1,9 +1,11 @@
+package month10;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ21278 {
+public class BJ21278_Hosuk {
     static int[][] map;
     static int N,M;
     static boolean[] visited;

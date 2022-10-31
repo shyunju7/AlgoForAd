@@ -1,9 +1,11 @@
+package month10;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ2503 {
+public class BJ2503_BaseballGame {
 
     public static class Baseball{
         int num,S,B;
