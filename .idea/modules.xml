@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/AlgoForAd.iml" filepath="$PROJECT_DIR$/AlgoForAd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/송현주/송현주.iml" filepath="$PROJECT_DIR$/송현주/송현주.iml" />
-    </modules>
-  </component>
-</project>
