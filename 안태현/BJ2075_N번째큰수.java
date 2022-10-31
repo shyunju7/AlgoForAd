@@ -15,29 +15,24 @@ public class BJ2075_N번째큰수 {
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		
 		int N = Integer.parseInt(st.nextToken());
-		int M = Integer.parseInt(st.nextToken());
 		
-		PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+		//내림차순으로 정렬 
+		PriorityQueue<Long> pq = new PriorityQueue<>(Collections.reverseOrder());
 		
-		st = new StringTokenizer(br.readLine());
 		for(int i = 0; i < N; i++) {
-			pq.add(Integer.parseInt(st.nextToken()));
-		}
-		
-		st = new StringTokenizer(br.readLine());
-		for(int i = 0; i < M; i++) {
-			int gift = pq.poll() - Integer.parseInt(st.nextToken());
-			
-			if(gift >= 0) {
-				pq.add(gift);
-			} else {
-				System.out.println(0);
-				return;	//안되면 종료 
+			st = new StringTokenizer(br.readLine());
+			for(int j = 0; j < N; j++) {
+				pq.add(Long.parseLong(st.nextToken()));
 			}
-			
 		}
-		System.out.println(1);
 		
+		//N번째 수 출력 
+		long answer = 0;
+		for(int i = 0; i < N; i++) {
+			answer = pq.poll();
+		}
+		
+		System.out.println(answer);
 	}
 
 }
