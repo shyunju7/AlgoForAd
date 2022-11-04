@@ -50,8 +50,16 @@
 ### 7주차 [우선순위 큐]
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
-| BJ | 16637 | G4 | <a href="https://www.acmicpc.net/problem/16637">괄호 추가하기</a> |  |  |
-| BJ | 15903 | S1 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a> | Success |  |
-| BJ | 2075 | S2 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a> | Success |  |
-| BJ | 23757 | S2 | <a href="https://www.acmicpc.net/problem/23757">아이들과 선물 상자</a> | Success |  |
-| BJ | 14235 | S3 | <a href="https://www.acmicpc.net/problem/14235">크리스마스 선물</a> | Success |  |
+| BJ | 16637 | G4 | <a href="https://www.acmicpc.net/problem/16637">괄호 추가하기</a> |  | ✅ |
+| BJ | 15903 | S1 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a> | Success | ✅ |
+| BJ | 2075 | S2 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a> | Success | ✅ |
+| BJ | 23757 | S2 | <a href="https://www.acmicpc.net/problem/23757">아이들과 선물 상자</a> | Success | ✅ |
+| BJ | 14235 | S3 | <a href="https://www.acmicpc.net/problem/14235">크리스마스 선물</a> | Success | ✅ |
+
+### 8주차 [그리디]
+| 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
+|:---:|:---:|:---:|:-----------------:|:---:|:---:|
+| BJ | 2141 | G4 | <a href="https://www.acmicpc.net/problem/2141">괄호 추가하기</a> |  |  |
+| BJ | 11000 | G5 | <a href="https://www.acmicpc.net/problem/11000">카드 합체 놀이</a> |  |  |
+| BJ | 15683 | G4 | <a href="https://www.acmicpc.net/problem/15683">N번째 큰 수</a> |  |  |
+| SWEA | 2117 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&">[모의 SW 역량테스트] 홈 방범 서비스</a> |  |  |
