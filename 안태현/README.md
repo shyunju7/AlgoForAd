@@ -59,7 +59,7 @@
 ### 8주차 [그리디]
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
-| BJ | 2141 | G4 | <a href="https://www.acmicpc.net/problem/2141">우체국</a> |  |  |
+| BJ | 2141 | G4 | <a href="https://www.acmicpc.net/problem/2141">우체국</a> |  | ✅ |
 | BJ | 11000 | G5 | <a href="https://www.acmicpc.net/problem/11000">강의실 배정</a> |  |  |
 | BJ | 15683 | G4 | <a href="https://www.acmicpc.net/problem/15683">감시</a> |  |  |
 | SWEA | 2117 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&">[모의 SW 역량테스트] 홈 방범 서비스</a> |  |  |
