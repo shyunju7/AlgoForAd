@@ -59,7 +59,16 @@
 ### 8주차 [그리디]
 | 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
-| BJ | 2141 | G4 | <a href="https://www.acmicpc.net/problem/2141">우체국</a> |  |  |
-| BJ | 11000 | G5 | <a href="https://www.acmicpc.net/problem/11000">강의실 배정</a> |  |  |
+| BJ | 2141 | G4 | <a href="https://www.acmicpc.net/problem/2141">우체국</a> |  | ✅ |
+| BJ | 11000 | G5 | <a href="https://www.acmicpc.net/problem/11000">강의실 배정</a> | Success | ✅ |
+| BJ | 15683 | G4 | <a href="https://www.acmicpc.net/problem/15683">감시</a> | 다시 | ✅ |
+| SWEA | 2117 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&">[모의 SW 역량테스트] 홈 방범 서비스</a> | Success | ✅ |
+
+### 9주차 [DP]
+| 구분 | 번호 | 난이도 |   제목   | 여부 | 풀이 |
+|:---:|:---:|:---:|:-----------------:|:---:|:---:|
 | BJ | 15683 | G4 | <a href="https://www.acmicpc.net/problem/15683">감시</a> |  |  |
-| SWEA | 2117 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&">[모의 SW 역량테스트] 홈 방범 서비스</a> |  |  |
+| BJ | 2565 | G5 | <a href="https://www.acmicpc.net/problem/2565">전깃줄</a> |  |  |
+| BJ | 1932 | S1 | <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a> |  |  |
+| BJ | 19238 | G2 | <a href="https://www.acmicpc.net/problem/19238">스타트 택시</a> |  |  |
+| SWEA | 2105 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[모의 SW 역량테스트] 디저트 카페</a> |  |  |
