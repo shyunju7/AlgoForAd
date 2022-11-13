@@ -69,6 +69,6 @@
 |:---:|:---:|:---:|:-----------------:|:---:|:---:|
 | BJ | 15683 | G4 | <a href="https://www.acmicpc.net/problem/15683">감시</a> |  |  |
 | BJ | 2565 | G5 | <a href="https://www.acmicpc.net/problem/2565">전깃줄</a> |  |  |
-| BJ | 1932 | S1 | <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a> |  |  |
+| BJ | 1932 | S1 | <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a> | Success |  |
 | BJ | 19238 | G2 | <a href="https://www.acmicpc.net/problem/19238">스타트 택시</a> |  |  |
 | SWEA | 2105 |  | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[모의 SW 역량테스트] 디저트 카페</a> |  |  |
