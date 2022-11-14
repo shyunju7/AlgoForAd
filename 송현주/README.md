@@ -41,9 +41,9 @@
 | 구분 | 번호 | 난이도 |   제목   | 풀이 |
 |:---:|:---:|:---:|:-----------------:|:---:|
 | BJ | 2141 | G4  |    [우체국](https://www.acmicpc.net/problem/2141)    |   -  |
-| BJ | 11000 | G5  |    [강의실 배정](https://www.acmicpc.net/problem/11000)    |   -   |
+| BJ | 11000 | G5  |    [강의실 배정](https://www.acmicpc.net/problem/11000)    |   ✓   |
 | BJ | 16206 | S2 |    [롤케이크](https://www.acmicpc.net/problem/16206)    |   -   |
 | BJ | 15683 | G4 |    [감시](https://www.acmicpc.net/problem/15683)    |   -   |
-| SWEA | 2117 | - |    [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2#none)    |   -   |
+| SWEA | 2117 | - |    [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2#none)    |   ✓   |
 
 
