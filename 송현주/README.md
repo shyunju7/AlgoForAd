@@ -37,6 +37,18 @@
 | BJ | 23757 | S2  |    [아이들과 선물 상자](https://www.acmicpc.net/problem/23757)    |   ✓  |
 | BJ | 14235 | S3  |    [크리스마스 선물](https://www.acmicpc.net/problem/14235)    |   ✓  |
 
+### **[11월 2주차]** 그리디 & 모의 역량 평가 문제
+| 구분 | 번호 | 난이도 |   제목   | 풀이 |
+|:---:|:---:|:---:|:-----------------:|:---:|
+| BJ | 2141 | G4  |    [우체국](https://www.acmicpc.net/problem/2141)    |   -  |
+| BJ | 11000 | G5  |    [강의실 배정](https://www.acmicpc.net/problem/11000)    |   ✓   |
+| SWEA | 2117 | - |    [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=2#none)    |   ✓   |
 
-
-
+### **[11월 3주차]** dp & 모의 역량 평가 문제
+| 구분 | 번호 | 난이도 |   제목   | 풀이 |
+|:---:|:---:|:---:|:-----------------:|:---:|
+| BJ | 1932 | S1 |    [정수 삼각형](https://www.acmicpc.net/problem/1932)    |  ✓  |
+| BJ | 2565 | G5  |    [전깃줄](https://www.acmicpc.net/problem/2565)    |   -   |
+| BJ | 19238 | G2 |    [스타트 택시](https://www.acmicpc.net/problem/19238)    |   -   |
+| BJ | 15683 | G4 |    [감시](https://www.acmicpc.net/problem/15683)    |   -   |
+| SWEA | 2105 | - |    [디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&)    |   -   |
